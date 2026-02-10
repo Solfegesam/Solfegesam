@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Samuel Billy
+"Aspiring Web Developer & Software Engineer"
+Learning • Building • Growing in Tech
 
-<!--
-**Solfegesam/Solfegesam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning "Computer programming".
+- I'm interested in "Web development, Software Engineering and Open Source".
+- I'm looking to collaborate on "beginner-friendly open source projects".
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- HTML5 & CSS3  
+- JavaScript  
+- Python  
+- Problem Solving & Algorithms  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Current Projects
+- "Personal Practice Projects" — small programs and web projects to sharpen my skills  
+- "GitHub Learning Repositories" — hands-on learning with version control  
+
+(More projects coming soon 🚀)
+
+
+## How to Reach Me
+- Email: "samuelbarasa106@gmail.com"
+- LinkedIn: "https://github.com/Solfegesam"
