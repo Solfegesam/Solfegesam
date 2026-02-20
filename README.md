@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Samuel Barasa
+# Hi there 👋 I'm Samuel Billy
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=500&lines=Aspiring+Web+Developer;Software+Engineering+Enthusiast;Building+Modern+Web+Solutions" />
