@@ -11,9 +11,9 @@ This semester I am committed to becoming a
 and practicing writing clean 'HTML', 'CSS', and 
 'Python' code.
 
-### Links
+### Connect with Me
 ##### My GitHub Profile: [https://github.com/Solfegesam]
-##### Learning Resource: [MDN Web Docs.com]
+##### Learning Resource: [ MDN Web Docs.com ]
 
 
 
