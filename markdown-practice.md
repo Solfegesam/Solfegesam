@@ -13,7 +13,7 @@ and practicing writing clean 'HTML', 'CSS', and
 
 ### Links
 ##### My GitHub Profile:https://github.com/Solfegesam
-##### Learning Resource:MDN Web Docs
+##### Learning Resource: [MDN Web Docs]
 
 
 
