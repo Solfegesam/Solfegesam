@@ -12,6 +12,7 @@ and practicing writing clean 'HTML', 'CSS', and
 'Python' code.
 
 ### Links
+
 [My GitHub Profile]: https://github.com/Solfegesam
 
 
