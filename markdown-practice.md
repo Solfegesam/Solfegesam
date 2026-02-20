@@ -14,6 +14,7 @@ and practicing writing clean 'HTML', 'CSS', and
 
 ### Connect with Me
 [My GitHub Profile](https://github.com/Solfegesam)
+
 [Learning Resource](MDN Web Docs)
 
 ### 💡 Skills I Want to Learn
@@ -22,7 +23,7 @@ and practicing writing clean 'HTML', 'CSS', and
 - Version control using Git & GitHub
 
 ### 📝Steps to Make a Commit in Git
-1. Stage the changes using _git add_
+1. Stage the changes using -git add-
 
 
 
