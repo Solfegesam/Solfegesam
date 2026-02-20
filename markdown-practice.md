@@ -13,7 +13,12 @@ and practicing writing clean 'HTML', 'CSS', and
 
 ### Connect with Me
 ##### My GitHub Profile: [https://github.com/Solfegesam]
-##### Learning Resource: [ MDN Web Docs.com ]
+##### Learning Resource: [MDN Web Docs]
+
+### Skills I Want to Learn
+- Fronted development (**HTML**, **CSS** & **JavaScript**)
+- Backend basics with Python
+- Version control using Git & GitHub
 
 
 
