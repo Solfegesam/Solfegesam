@@ -11,15 +11,19 @@ This semester I am committed to becoming a
 and practicing writing clean 'HTML', 'CSS', and 
 'Python' code.
 
+
 ### Connect with Me
 ##### My GitHub Profile: [https://github.com/Solfegesam]
 ##### Learning Resource: [MDN Web Docs]
 
-### Skills I Want to Learn
+
+### 💡 Skills I Want to Learn
 - Fronted development (**HTML**, **CSS** & **JavaScript**)
 - Backend basics with Python
 - Version control using Git & GitHub
 
+### 📝Steps to Make a Commit in Git
+1. Stage the changes using <sup> git add </sup>
 
 
 
