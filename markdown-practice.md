@@ -23,7 +23,7 @@ and practicing writing clean 'HTML', 'CSS', and
 - Version control using Git & GitHub
 
 ### 📝Steps to Make a Commit in Git
-1. ##### Stage the changes using *git add*
+1. ##### Stage the changes using *°git add*
 2. ##### Commit using *git commit -m "Describe your changes"*
 3. ##### Push to GitHub using *git push origin main*
 
