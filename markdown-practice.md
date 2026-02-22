@@ -46,7 +46,15 @@ and practicing writing clean 'HTML', 'CSS', and
 - [ ] Contribute to an open-source project
 - [ ] Practise advanced Python projects
 
-### 
+### Code Blocks
+
+Python id="example01"
+
+def greet(name)
+  returnf"Hello, {name}! Welcome to my GitHub."
+  
+print(greet("Samuel"))
+
 
 
 
