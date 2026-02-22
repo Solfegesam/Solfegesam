@@ -24,8 +24,18 @@ and practicing writing clean 'HTML', 'CSS', and
 
 ### 📝Steps to Make a Commit in Git
 1. ##### Stage the changes using *°git add*
-2. ##### Commit using *git commit -m "Describe your changes"*
-3. ##### Push to GitHub using *git push origin main*
+2. ##### Commit using *°git commit -m "Describe your changes"*
+3. ##### Push to GitHub using *°git push origin main*
+
+### Tools I use/Learn
+
+| Tool       | Purpose                          | Links      |
+|------------|----------------------------------|------------|
+| VS Code    | Code editor                      | VS Code↗   |
+| GitHub     | Project hosting & collaboration  | GitHub↗    |
+| Python     | Programming language             | Python↗    |
+| HTML/CSS   | Web page structure & styling     | W3Schools↗ |
+| JavaScript | Add interactivity to websites    | MDN JS↗    |
 
 
 
