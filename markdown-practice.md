@@ -17,7 +17,7 @@ and practicing writing clean 'HTML', 'CSS', and
 ### Connect with Me
 [My GitHub Profile](https://github.com/Solfegesam)
 
-[Learning Resource](MDN Web Docs)
+[Learning Resource](https://developer.mozilla.org)
 
 ### 💡 Skills I Want to Learn
 - Fronted development (**HTML**, **CSS** & **JavaScript**)
@@ -49,7 +49,7 @@ and practicing writing clean 'HTML', 'CSS', and
 - [ ] Practise advanced Python projects
 
 ### Code Blocks
-def greet(name):
+````def greet(name):
     return f"Hello, {name}! Welcome to my GitHub."
 
 print(greet("Samuel"))
