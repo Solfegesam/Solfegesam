@@ -49,10 +49,13 @@ and practicing writing clean 'HTML', 'CSS', and
 - [ ] Practise advanced Python projects
 
 ### Code Blocks
-````def greet(name):
+````Python
+def greet(name):
     return f"Hello, {name}! Welcome to my GitHub."
 
 print(greet("Samuel"))
+
+````
 
 ### 🌟 Favorite Quote
 
