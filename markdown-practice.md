@@ -37,6 +37,16 @@ and practicing writing clean 'HTML', 'CSS', and
 | HTML/CSS   | Web page structure & styling     | W3Schools↗ |
 | JavaScript | Add interactivity to websites    | MDN JS↗    |
 
+### Task List
+
+- [x] Set up GitHub profile repositories
+- [x] Learn basic Markdown syntax
+- [x] Push files to GitHub
+- [ ] Build and deploy a personal website
+- [ ] Contribute to an open-source project
+- [ ] Practise advanced Python projects
+
+### 
 
 
 
