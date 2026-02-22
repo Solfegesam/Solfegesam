@@ -1,10 +1,12 @@
 # SAMUEL BILLY
-Hello, I'm Samuel!
+Hello, I'm Samuel👋!
 
-I'm a **Computer Programming student** passionate about technology, coding and
-creating web solutions.
+I'm a *Computer Programming student* **passionate about technology, coding and
+creating web solutions** using Python, HTML and GitHub.
 
 ## My Learning Goals
+Building and deploying real-world applications.
+
 ### This Semester
 This semester I am committed to becoming a 
 **skilled web developer**, staying *disciplined*, 
@@ -47,13 +49,17 @@ and practicing writing clean 'HTML', 'CSS', and
 - [ ] Practise advanced Python projects
 
 ### Code Blocks
+def greet(name):
+    return f"Hello, {name}! Welcome to my GitHub."
 
-Python id="example01"
-
-def greet(name)
-  returnf"Hello, {name}! Welcome to my GitHub."
-  
 print(greet("Samuel"))
+
+### 🌟 Favorite Quote
+
+>“Success in programming comes from consistent practice, problem-solving, and never giving up.”
+
+
+
 
 
 
