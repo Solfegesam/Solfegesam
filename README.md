@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/header_2.png" align="center" style="width: 100%" />
+<img src="https://github.com/Solfegesam/blob/main/assets/header_2.png" align="center" style="width: 100%" />
 </div>  
   
 
