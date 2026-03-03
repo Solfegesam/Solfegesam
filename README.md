@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/header_2.png" style="width: 100%" />
+<img src="banner.png" style="width:100%;" />
 
 <h1>Hi 👋, I'm Samuel Barasa</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Engineer;Python+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Python+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+APIs;Open+To+Remote+Opportunities" />
 
-<h3>Backend-Focused Software Engineer | API & Cloud Builder</h3>
+<h3>Backend Engineer | API Architect | Cloud Builder</h3>
 
 </div>
 
@@ -14,68 +14,78 @@
 
 ## 🚀 Professional Summary
 
-I am a backend-focused software engineer passionate about building scalable systems, REST APIs, and cloud-native applications.
+Backend-focused Software Engineer passionate about building scalable, production-ready systems and APIs.
 
-I specialize in Python-based backend development, database design, and DevOps fundamentals. My goal is to design systems that are secure, maintainable, and production-ready.
+I specialize in Python backend development, REST API architecture, database design, containerization, and cloud-ready deployments. I write clean, maintainable code and design systems with long-term scalability in mind.
 
-Currently expanding into Kubernetes, Web3, and distributed systems engineering.
-
-📍 Open to remote international opportunities.
+📍 Based in Kenya  
+🌍 Open to Remote International Opportunities  
 
 ---
 
-## 🛠 Core Tech Stack
+## ⚡ What I Bring To A Team
 
-### 💻 Backend Engineering
-- Python
-- Node.js
-- REST API Design
-- MongoDB
-- Redis
-- Linux Systems
+✔ Clean and scalable backend architecture  
+✔ REST API design & implementation  
+✔ Database modeling (MongoDB, Redis)  
+✔ Dockerized applications  
+✔ DevOps mindset (CI/CD fundamentals, Linux systems)  
+✔ Strong Git collaboration workflow  
+✔ Continuous learner focused on cloud & distributed systems  
 
-### 🎨 Frontend Knowledge
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Tailwind CSS
+---
+
+## 🛠 Tech Stack
+
+### 💻 Backend
+- Python  
+- Node.js  
+- REST APIs  
+- MongoDB  
+- Redis  
+- Linux  
 
 ### ⚙ DevOps & Cloud
-- Docker
-- Kubernetes
-- Git & GitHub
-- Bash Scripting
-- CI/CD Concepts
-- Google Cloud Platform (GCP)
+- Docker  
+- Kubernetes  
+- GitHub Actions (CI/CD basics)  
+- Bash  
+- Google Cloud Platform  
+
+### 🎨 Frontend (Working Knowledge)
+- HTML5  
+- CSS3  
+- JavaScript  
+- React  
+- Tailwind CSS  
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🔹 Portfolio Website
-> Multi-page responsive portfolio built with semantic HTML & modern CSS  
-🔗 (Add your live link here)
+### 🔹 Portfolio Website  
+Responsive multi-page portfolio built with semantic HTML and modern CSS.  
+🔗 https://github.com/Solfegesam  
 
-### 🔹 Backend API Project
-> RESTful API with authentication, database integration & deployment-ready structure  
-🔗 (Add repo link)
+### 🔹 REST API Backend System  
+Authentication, database integration, production-ready structure.  
+🔗 https://github.com/Solfegesam  
 
-### 🔹 DevOps Practice Lab
-> Dockerized applications with container orchestration experiments  
-🔗 (Add repo link)
+### 🔹 Dockerized Backend Service  
+Containerized backend app configured for scalable deployment.  
+🔗 https://github.com/Solfegesam  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Performance
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Solfegesam&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Solfegesam&show_icons=true&theme=radical&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Solfegesam&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Solfegesam&theme=radical&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solfegesam&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solfegesam&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
@@ -85,19 +95,19 @@ Currently expanding into Kubernetes, Web3, and distributed systems engineering.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Solfegesam&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Solfegesam&theme=radical&no-frame=true&row=1&column=6" />
 
 </div>
 
 ---
 
-## 🎯 What I’m Currently Focused On
+## 🎯 Currently Focused On
 
-- Building production-ready backend systems
-- Writing clean, maintainable code
-- Mastering Kubernetes & cloud deployment
-- Contributing to open source
-- Strengthening system design knowledge
+- Advanced Backend Architecture  
+- Kubernetes Mastery  
+- System Design  
+- Cloud-native Development  
+- Contributing to Open Source  
 
 ---
 
@@ -117,12 +127,8 @@ Currently expanding into Kubernetes, Web3, and distributed systems engineering.
 
 ---
 
-## 💼 Open To Opportunities
-
-✔ Backend Developer Roles  
-✔ Junior DevOps Roles  
-✔ Remote Software Engineering Jobs  
-✔ Open Source Collaboration  
+🔗 View All My Work:  
+https://github.com/Solfegesam
 
 ---
 
