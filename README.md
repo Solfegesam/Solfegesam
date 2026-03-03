@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[WhatsApp Image 2026-03-04 at 12 32 03 AM](https://github.com/user-attachments/assets/405601c2-7b6f-4899-8dc2-d89f181a3645)" style="width:100%;" />
+<img src="(https://github.com/user-attachments/assets/405601c2-7b6f-4899-8dc2-d89f181a3645)" style="width:100%;" />
 
 <h1>Hi 👋, I'm Samuel Barasa</h1>
 
