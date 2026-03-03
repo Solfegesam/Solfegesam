@@ -1,84 +1,69 @@
 <div align="center">
-<img src="https://github.com/Solfegesam" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Samuel B. Barasa, a Software Engineer 👨‍💻 with a great interest in Back End Development. </div>  
-  
+<img src="assets/header_2.png" style="width: 100%" />
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Python+Stack+Specialist;Web3+%26+Cloud+Engineer;AI+%2F+ML+Explorer;Clean+Architecture+Advocate;Open+to+Opportunities" />
+<h1>Hi 👋, I'm Samuel Barasa</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Engineer;Python+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Systems" />
+
+<h3>Backend-Focused Software Engineer | API & Cloud Builder</h3>
+
 </div>
-
-<p align="center">
-Backend-focused Software Engineer building scalable systems, secure APIs, and distributed applications.
-</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Professional Summary
 
-- 🔭 Building scalable backend systems & production-ready APIs  
-- 🌱 Learning **Web3**, **Kubernetes**, **Cloud Infrastructure**, and **AI/ML systems**  
-- 🧠 Strong focus on backend architecture, system design & performance optimization  
-- 🎯 Actively seeking backend roles, internships & remote engineering opportunities  
-- ⚡ Passionate about blending logic, creativity, and disciplined engineering  
+I am a backend-focused software engineer passionate about building scalable systems, REST APIs, and cloud-native applications.
 
----
+I specialize in Python-based backend development, database design, and DevOps fundamentals. My goal is to design systems that are secure, maintainable, and production-ready.
 
-## 🧠 Core Engineering Strengths
+Currently expanding into Kubernetes, Web3, and distributed systems engineering.
 
-✔ REST API Design  
-✔ Database Modeling & Optimization  
-✔ Clean Architecture & Scalable Systems  
-✔ Containerized Deployment (Docker)  
-✔ Kubernetes Orchestration  
-✔ Python Backend Engineering  
-✔ Introductory AI / ML Systems  
+📍 Open to remote international opportunities.
 
 ---
 
-## 🚀 Tech Stack
+## 🛠 Core Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
+### 💻 Backend Engineering
+- Python
+- Node.js
+- REST API Design
+- MongoDB
+- Redis
+- Linux Systems
 
-### Frontend
-<div align="center">  
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40"/>  
-</div>
+### 🎨 Frontend Knowledge
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Tailwind CSS
 
-</td>
+### ⚙ DevOps & Cloud
+- Docker
+- Kubernetes
+- Git & GitHub
+- Bash Scripting
+- CI/CD Concepts
+- Google Cloud Platform (GCP)
 
-<td valign="top" width="33%">
+---
 
-### Backend
-<div align="center">  
-<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="40"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" height="40"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/flask-original.svg" height="40"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="40"/>  
-</div>
+## 🌟 Featured Projects
 
-</td>
+### 🔹 Portfolio Website
+> Multi-page responsive portfolio built with semantic HTML & modern CSS  
+🔗 (Add your live link here)
 
-<td valign="top" width="33%">
+### 🔹 Backend API Project
+> RESTful API with authentication, database integration & deployment-ready structure  
+🔗 (Add repo link)
 
-### DevOps & Cloud
-<div align="center">  
-<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="40"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/kubernetes-original.svg" height="40"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/git-original.svg" height="40"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/github-original-wordmark.svg" height="40"/>  
-</div>
-
-</td>
-</tr>
-</table>
+### 🔹 DevOps Practice Lab
+> Dockerized applications with container orchestration experiments  
+🔗 (Add repo link)
 
 ---
 
@@ -86,54 +71,61 @@ Backend-focused Software Engineer building scalable systems, secure APIs, and di
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Solfegesam&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Solfegesam&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Solfegesam&show_icons=true&theme=tokyonight&hide_border=true" />
 
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Solfegesam&theme=tokyonight&hide_border=true" />
 
-<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solfegesam&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🏆 Achievements
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Solfegesam/Solfegesam/output/github-contribution-grid-snake.svg" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Solfegesam&theme=tokyonight&no-frame=true&row=1&column=6" />
+
 </div>
 
 ---
 
-## 👀 Profile Views
+## 🎯 What I’m Currently Focused On
+
+- Building production-ready backend systems
+- Writing clean, maintainable code
+- Mastering Kubernetes & cloud deployment
+- Contributing to open source
+- Strengthening system design knowledge
+
+---
+
+## 🌍 Connect With Me
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Solfegesam&label=Profile%20views&color=00F7FF&style=flat" />
+
+<a href="https://github.com/Solfegesam">
+<img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:samuelbarasa106@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-## 🌍 Open to Opportunities
+## 💼 Open To Opportunities
 
-I am actively open to:
-
-- Backend Engineering Roles  
-- Python Developer Positions  
-- Web3 Engineering Opportunities  
-- AI/ML Junior Roles  
-- Remote & Distributed Teams  
-
----
-
-## 📫 Contact
-
-📧 samuelbarasa106@gmail.com  
-🔗 https://github.com/Solfegesam  
+✔ Backend Developer Roles  
+✔ Junior DevOps Roles  
+✔ Remote Software Engineering Jobs  
+✔ Open Source Collaboration  
 
 ---
 
 <div align="center">
-
-### “Build systems that scale. Design architecture that lasts.”
-
+  <img src="https://komarev.com/ghpvc/?username=Solfegesam&style=flat-square" />
 </div>
