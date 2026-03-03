@@ -1,7 +1,8 @@
-# Hi there 👋 I'm Samuel Billy
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/fd23f11c-9c84-4853-b5b1-2b6bb7de1e6a" /># Hi there 👋 I'm Samuel Billy
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="[Uploading image.png…]
+" align="center" style="width: 100%" />
 </div>
 
 <h1 align="center">Samuel Barasa</h1>
