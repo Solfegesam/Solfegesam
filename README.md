@@ -1,5 +1,10 @@
 # Hi there 👋 I'm Samuel Billy
 
+<div align="center">
+<img src="assets/header_2.png" align="center" style="width:100% />
+  </div>
+  
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=500&lines=Aspiring+Web+Developer;Software+Engineering+Enthusiast;Building+Modern+Web+Solutions" />
 </p>
