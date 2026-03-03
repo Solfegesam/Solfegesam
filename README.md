@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="(https://chatgpt.com/s/m_69a757372be8819187955ec588a3ad8" style="width:100%;" />
+<img src="<img width="640" height="120" alt="image" src="https://github.com/user-attachments/assets/7482ceaa-3f43-4086-8601-0ca6d71a8976" />
+" style="width:100%;" />
 
 <h1>Hi 👋, I'm Samuel Barasa</h1>
 
