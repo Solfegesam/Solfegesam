@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/7482ceaa-3f43-4086-8601-0ca6d71a8976" 
- alt="image" width="300" />
+ alt="image" width="300" height="700" />
 
 
 <h1>Hi 👋, I'm Samuel Barasa</h1>
