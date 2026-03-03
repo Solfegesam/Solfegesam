@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="(https://github.com/user-attachments/assets/405601c2-7b6f-4899-8dc2-d89f181a3645)" style="width:100%;" />
+<img src="(https://chatgpt.com/s/m_69a757372be8819187955ec588a3ad8" style="width:100%;" />
 
 <h1>Hi 👋, I'm Samuel Barasa</h1>
 
