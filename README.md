@@ -1,4 +1,4 @@
-<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/fd23f11c-9c84-4853-b5b1-2b6bb7de1e6a" />
+<img width="640" height="120" alt="image" src="https://github.com/user-attachments/assets/fd23f11c-9c84-4853-b5b1-2b6bb7de1e6a" />
 
 <div align="center">
 <img src="[Uploading image.png…]
