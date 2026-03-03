@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Samuel Billy
 
 <div align="center">
-<img src="assets/header_2.png" align="center" style="width: 100%" />
+<img src="" align="center" style="width: 100%" />
 </div>
 
 <h1 align="center">Samuel Barasa</h1>
