@@ -1,11 +1,10 @@
-<img width="640" height="120" alt="image" src="https://github.com/user-attachments/assets/fd23f11c-9c84-4853-b5b1-2b6bb7de1e6a" />
-
 <div align="center">
-<img src="[Uploading image.png…]
-" align="center" style="width: 100%" />
-</div>
+<img src="assets/header_2.png" align="center" style="width: 100%" />
+</div>  
+  
 
-<h1 align="center">Samuel Barasa</h1>
+### <div align="center">I'm Samuel B. Barasa, a Software Engineer 👨‍💻 with a great interest in Back End Development. </div>  
+  
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Python+Stack+Specialist;Web3+%26+Cloud+Engineer;AI+%2F+ML+Explorer;Clean+Architecture+Advocate;Open+to+Opportunities" />
