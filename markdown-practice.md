@@ -8,7 +8,9 @@
 
   <!-- Typing Animation -->
   <h2>
+    <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=500&lines=Programmer;Web+Developer;Tech+Enthusiast" alt="Typing Animation" />
+    </p>
   </h2>
 </div>
 
