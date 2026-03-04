@@ -1,15 +1,18 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/260166915?v=4&size=64/150" alt="Samuel Billy" width="150" height="150" style="border-radius:50%;">
+  <img src="https://avatars.githubusercontent.com/u/260166915?v=4&size=64/150" alt="Samuel Billy" width="200" height="200" style="border-radius:60%;">
 </p>
 
 <p align="center">
-  <strong style="font-size:24px;">SAMUEL BILLY</strong>
-</p>
-# SAMUEL BILLY
+  <strong style="font-size:34px;">SAMUEL BILLY</strong>
 Hello, I'm Samuel👋!
+</p>
+
+---
 
 I'm a *Computer Programming student* **passionate about technology, coding and
 creating web solutions** using Python, HTML and GitHub.
+
+---
 
 ## My Learning Goals
 Building and deploying real-world applications.
@@ -20,11 +23,14 @@ This semester I am committed to becoming a
 and practicing writing clean 'HTML', 'CSS', and 
 'Python' code.
 
+---
 
 ### Connect with Me
 [My GitHub Profile](https://github.com/Solfegesam)
 
 [Learning Resource](https://developer.mozilla.org)
+
+---
 
 ### 💡 Skills I Want to Learn
 - Fronted development (**HTML**, **CSS** & **JavaScript**)
