@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://www.facebook.com/photo/?fbid=1397187342166553&set=a.313838327168132&__cft__[0]=AZZuVNAYhvHC-lHRMyfaaLZd55Yh_uQTZPN2xjYfeCmWSMjfj4enzpqOqgegNyvLCFwUfre0ltMT8ixPGY1nTQISidfjt26Z6-06hSjFP7y1s1VBx3PR3CG4cRXQu63XKY8-C5-w0V_DpjSkVdCZO_SK0Hm076CRsAA9uWYBXBRiyo64_2PShTQDwWDCjSAGMZRhGDIDva11lwdGtcWu7HKG&__tn__=EH-R" 
- width="100%" />
+<img src="https://www.facebook.com/photo/?" width="100%" />
 <h1>Hi 👋, I'm Samuel Barasa</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Python+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+APIs;Open+To+Remote+Opportunities" />
