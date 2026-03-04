@@ -1,12 +1,36 @@
-<div class="logo-container">
-    <div class="name-container">
-        <span class="first-name">SAMUEL</span>
-        <span class="last-name">BARASA</span>
-    </div>
-    <div class="title">BACKEND SOFTWARE ENGINEER</div>
-    <div class="underline"></div>
-</div>
+.logo-container {
+    text-align: center;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* A common sans-serif font */
+    padding: 20px;
+}
 
+.name-container {
+    font-size: 40px;
+    font-weight: 300; /* For a thin line look */
+    letter-spacing: 2px;
+}
+
+.first-name {
+    color: #f7941d; /* Approximate orange color */
+}
+
+.last-name {
+    color: #00a0b0; /* Approximate blue/teal color */
+}
+
+.title {
+    font-size: 16px;
+    color: #555; /* Approximate grey color */
+    margin-top: 10px;
+    letter-spacing: 1px;
+}
+
+.underline {
+    width: 100px;
+    height: 3px;
+    background-color: #f7941d; /* Same orange color */
+    margin: 15px auto 0 auto; /* Centers the line */
+}
 <h1>Hi 👋, I'm Samuel Barasa</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Python+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+APIs;Open+To+Remote+Opportunities" />
