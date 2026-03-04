@@ -3,7 +3,7 @@
   <img src="https://avatars.githubusercontent.com/u/260166915?v=4&size=64" alt="Samuel Billy" style="border-radius:50%; width:200px; height:200px; margin-bottom: 15px;" />
   <h1 class="rainbow-name">Hi 👋, I'm <strong>Samuel Billy</strong></h1>
   <h2 style="margin-bottom: 20px;">
-    <img class="typing-svg" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00F0FF;FF00FF;00FF00&center=true&vCenter=true&width=500&lines=Programmer;Web+Developer;Tech+Enthusiast" alt="Typing Animation" />
+    <img class="typing-svg" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00F0FF;FF00FF;00FF00&center=true&vCenter=true&width=500&lines=I'm a *Computer Programming student* ; **passionate about technology** ; **Coding** ; **Creating web solutions** ; using Python; HTML and GitHub." alt="Typing Animation" />
   </h2>
   <p>
     <a href="https://github.com/Solfegesam" target="_blank">
