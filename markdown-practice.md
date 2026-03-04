@@ -27,35 +27,6 @@
   </p>
 </div>
 
-<!-- ================= Projects Section ================= -->
-<div align="center" style="margin-top: 40px;">
-  <h2 style="font-size:28px;">🚀 Projects</h2>
-  <p>Some of my favorite work</p>
-
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Solfegesam/iyf-s10-week-03-Solfegesam" target="_blank">
-          <img src="https://via.placeholder.com/200x120.png?text=Tools+%26+Workflow" alt="Project 1" style="border-radius:10px;"/>
-          <br>Tools & Workflow
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Solfegesam/another-project" target="_blank">
-          <img src="https://via.placeholder.com/200x120.png?text=Project+2" alt="Project 2" style="border-radius:10px;"/>
-          <br>Project 2
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Solfegesam/another-project-2" target="_blank">
-          <img src="https://via.placeholder.com/200x120.png?text=Project+3" alt="Project 3" style="border-radius:10px;"/>
-          <br>Project 3
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <!-- ================= Skills Section ================= -->
 <div align="center" style="margin-top: 40px;">
   <h2 style="font-size:28px;">💡 Skills</h2>
