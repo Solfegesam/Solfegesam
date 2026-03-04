@@ -14,11 +14,17 @@
 
 ## 🚀 Professional Summary
 
-Backend-focused Software Engineer passionate about building scalable, production-ready systems and APIs.
+Backend-focused Software Engineer building scalable, production-ready systems and APIs.
 
-I specialize in Python backend development, REST API architecture, database design, containerization, and cloud-ready deployments. I write clean, maintainable code and design systems with long-term scalability in mind.
+I specialize in:
 
-📍 Based in Kenya  
+- High-performance backend systems  
+- REST API architecture  
+- Database modeling & optimization  
+- Containerized deployments  
+- Cloud-ready infrastructure  
+
+📍 Kenya  
 🌍 Open to Remote International Opportunities  
 
 ---
@@ -63,29 +69,47 @@ I specialize in Python backend development, REST API architecture, database desi
 
 ## 🌟 Featured Projects
 
-### 🔹 Portfolio Website  
-Responsive multi-page portfolio built with semantic HTML and modern CSS.  
-🔗 https://github.com/Solfegesam  
+### 🔹 Scalable REST API System
+Authentication, role-based access control, optimized database structure.
 
-### 🔹 REST API Backend System  
-Authentication, database integration, production-ready structure.  
-🔗 https://github.com/Solfegesam  
+### 🔹 Dockerized Backend Infrastructure
+Production-ready containerized services.
 
-### 🔹 Dockerized Backend Service  
-Containerized backend app configured for scalable deployment.  
-🔗 https://github.com/Solfegesam  
+### 🔹 Portfolio Website
+Semantic multi-page responsive architecture.
 
+🔗 Explore All Projects  
+https://github.com/Solfegesam
 ---
 
-## 📊 GitHub Performance
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Solfegesam&show_icons=true&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Solfegesam&show_icons=true&theme=radical&hide_border=true" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Solfegesam&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Solfegesam&theme=radical&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solfegesam&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solfegesam&layout=compact&theme=radical&hide_border=true" height="170"/>
+
+</div>
+
+
+
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Solfegesam&theme=react-dark&hide_border=true" />
 
 </div>
 
@@ -93,9 +117,11 @@ Containerized backend app configured for scalable deployment.
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Solfegesam&theme=radical&no-frame=true&row=1&column=6" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Solfegesam&theme=radical&no-frame=true&row=1&column=6" />
+
+</div>
 
 ---
 
