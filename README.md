@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="810" height="140" alt="image" src="https://github.com/user-attachments/assets/9e45ffe4-23e4-4806-be34-00025590ef95" />
+<img width="810" height="240" alt="image" src="https://github.com/user-attachments/assets/9e45ffe4-23e4-4806-be34-00025590ef95" />
 
 <h1>Hi 👋, I'm Samuel Barasa</h1>
 
