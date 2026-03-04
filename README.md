@@ -95,7 +95,8 @@ Containerized backend app configured for scalable deployment.
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Solfegesam&theme=radical&no-frame=true&row=1&column=6)
+<img src="![trophy](https://github-profile-trophy.vercel.app/?username=Solfegesam)" />
+
 </div>
 
 ---
