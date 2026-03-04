@@ -1,9 +1,7 @@
 <div align="center">
-.logo-container {
-text-align: center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* A common sans-serif font */ padding; 20px;
 
 <img src="https://github.com/user-attachments/assets/7482ceaa-3f43-4086-8601-0ca6d71a8976" 
- alt="Samuel Barasa Backened Engineer Banner" width="100px" height="3px" />
+ alt="Samuel Barasa Backened Engineer Banner" width="640px" height="640px" />
 <h1>Hi 👋, I'm Samuel Barasa</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Python+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+APIs;Open+To+Remote+Opportunities" />
