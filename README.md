@@ -93,11 +93,9 @@ Containerized backend app configured for scalable deployment.
 
 ## 🏆 Achievements
 
-<div align="center">
-
-<img src="![trophy](https://github-profile-trophy.vercel.app/?username=Solfegesam&theme=radical&no-frame=true&row=1&column=6)" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Solfegesam&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
