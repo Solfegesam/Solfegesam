@@ -1,8 +1,11 @@
-<div align="center">
-
-<img src="https://github.com/user-attachments/assets/7482ceaa-3f43-4086-8601-0ca6d71a8976" 
- alt="Samuel Barasa Backened Engineer Banner" width="100%" />
-
+<div class="logo-container">
+    <div class="name-container">
+        <span class="first-name">SAMUEL</span>
+        <span class="last-name">BARASA</span>
+    </div>
+    <div class="title">BACKEND SOFTWARE ENGINEER</div>
+    <div class="underline"></div>
+</div>
 
 <h1>Hi 👋, I'm Samuel Barasa</h1>
 
