@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://www.facebook.com/photo/?" width="100%" />
+<img width="810" height="540" alt="image" src="https://github.com/user-attachments/assets/9e45ffe4-23e4-4806-be34-00025590ef95" />
+
 <h1>Hi 👋, I'm Samuel Barasa</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Python+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+APIs;Open+To+Remote+Opportunities" />
