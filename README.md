@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://www.facebook.com/share/p/1Kx2DL69TY/" 
- alt="Samuel Barasa Backened Engineer Banner" width="940px" height="120px" />
+ width="100%" />
 <h1>Hi 👋, I'm Samuel Barasa</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Python+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+APIs;Open+To+Remote+Opportunities" />
