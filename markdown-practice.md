@@ -1,9 +1,10 @@
-<div align="center">
-  <!-- Round Profile Banner -->
-  <img src="https://avatars.githubusercontent.com/u/260166915?v=4&size=64" alt="Samuel Billy" style="border-radius:50%; width:150px; height:150px;" />
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/260166915?v=4&size=64/150" alt="Samuel Billy" width="200" height="200" style="border-radius:60%;">
+</p>
 
-  <!-- Name -->
-  <h1>Hi 👋, I'm <strong>Samuel Billy</strong></h1>
+<p align="center">
+  <strong style="font-size:34px;">SAMUEL BILLY</strong> <br/>
+</p>
 
   <!-- Typing Animation -->
   <h2>
