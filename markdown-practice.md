@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/260166915?v=4&size=64/150" alt="Samuel Billy" width="150" height="150" style="border-radius:50%;">
+</p>
+
+<p align="center">
+  <strong style="font-size:24px;">SAMUEL BILLY</strong>
+</p>
 # SAMUEL BILLY
 Hello, I'm Samuel👋!
 
