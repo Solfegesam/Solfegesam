@@ -1,6 +1,6 @@
 <!-- ================= Header Section ================= -->
 <div align="center" style="position: relative; overflow: hidden; border-radius: 20px; padding: 30px; background: var(--bg-gradient); background-size: 800% 800%; animation: gradientBG 20s ease infinite;">
-  <img src="https://avatars.githubusercontent.com/u/260166915?v=4&size=64" alt="Samuel Billy" style="border-radius:50%; width:150px; height:150px; margin-bottom: 15px;" />
+  <img src="https://avatars.githubusercontent.com/u/260166915?v=4&size=64" alt="Samuel Billy" style="border-radius:50%; width:200px; height:200px; margin-bottom: 15px;" />
   <h1 class="rainbow-name">Hi 👋, I'm <strong>Samuel Billy</strong></h1>
   <h2 style="margin-bottom: 20px;">
     <img class="typing-svg" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00F0FF;FF00FF;00FF00&center=true&vCenter=true&width=500&lines=Programmer;Web+Developer;Tech+Enthusiast" alt="Typing Animation" />
@@ -78,50 +78,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
-
-<!-- ================= Animations & Dark/Light Mode ================= -->
-<style>
-/* Gradient Background Animation */
-@keyframes gradientBG {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-
-/* Rainbow Name Animation */
-.rainbow-name {
-  background: linear-gradient(90deg, #00F0FF, #FF00FF, #FFFF00);
-  -webkit-background-clip: text;
-  color: transparent;
-  background-size: 200% 200%;
-  animation: rainbowText 3s linear infinite;
-}
-@keyframes rainbowText {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-
-/* Social badge hover scaling */
-.social-badge {
-  transition: transform 0.3s;
-}
-.social-badge:hover {
-  transform: scale(1.1);
-}
-
-/* Dark/Light Mode */
-@media (prefers-color-scheme: dark) {
-  :root { --bg-gradient: linear-gradient(270deg, #0f0f0f, #2a2a2a, #1a1a1a, #3a3a3a); }
-  .rainbow-name { background: linear-gradient(90deg, #00FFFF, #FF00FF, #FFAA00); }
-  .typing-svg { filter: invert(100%); }
-  .social-badge { filter: brightness(1.2); }
-}
-@media (prefers-color-scheme: light) {
-  :root { --bg-gradient: linear-gradient(270deg, #00F0FF, #FF00FF, #FFFF00, #00FF00); }
-  .rainbow-name { background: linear-gradient(90deg, #00F0FF, #FF00FF, #FFFF00); }
-}
-</style>
 
 ---
 
