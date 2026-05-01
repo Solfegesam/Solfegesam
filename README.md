@@ -4,8 +4,7 @@
 
 <h1>Hi 👋, I'm Samuel Barasa</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Python+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+APIs;Open+To+Remote+Opportunities" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=750&lines=Backend+Engineer+%7C+API+Design+%26+System+Logic;Python+%7C+Node.js+%7C+REST+APIs;Building+Scalable+Projects+with+Real+Use+Cases;Choral+Musician+%2B+Creative+Technologist;Open+to+Remote+Opportunities" />
 
 </div>
 
