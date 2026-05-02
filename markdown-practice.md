@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/260166915?v=4" width="180" style="border-radius:70%;" />
+  <img src="https://avatars.githubusercontent.com/u/260166915?v=4" width="200" style="border-radius:70%;" />
 </p>
 
 <h1 align="center">Samuel Barasa</h1>
