@@ -54,11 +54,12 @@ API for managing and tracking student performance.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Solfegesam&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solfegesam&layout=compact&theme=tokyonight" />
-</p>
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Solfegesam&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solfegesam&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 ---
 
 ## 🤝 Connect With Me
