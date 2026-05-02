@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="710" height="200" alt="image" src="[https://github.com/user-attachments/assets/9e45ffe4-23e4-4806-be34-00025590ef95](https://web.facebook.com/photo/?fbid=1442129057672381&set=a.1009441500941141&__cft__[0]=AZbciplS7ZZmG_akUYJnCnDQAiVoTpcOok8qydxkXTR8agICKzBYKFfg-JVCcAxYnWUo4hS8wsgk5wbSRkV09wVeBVr4mBHczBXRB-dkUF4YO4CE2-UIHlyfME0Qz4KOye0K71og4X_bkojo5btGT26i&__tn__=EH-R)" />
+<img width="710" height="200" alt="image" src="<img width="1350" height="540" alt="image" src="https://github.com/user-attachments/assets/f403ca0d-88bf-4622-b5c6-af06ea546751" />
+" />
 
 <h1>Hi 👋, I'm Samuel Barasa</h1>
 
