@@ -96,6 +96,7 @@ Collection of responsive UI projects demonstrating clean layouts and interactive
 
 ## 📊 GitHub Stats
 
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solfegesam&show_icons=true&theme=tokyonight)
 ---
 
 ## 🤝 Connect With Me
