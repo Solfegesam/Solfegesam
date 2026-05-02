@@ -96,8 +96,8 @@ Collection of responsive UI projects demonstrating clean layouts and interactive
 
 ## 📊 GitHub Stats
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solfegesam&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solfegesam&layout=compact&theme=tokyonight)
+(https://github-readme-stats.vercel.app/api?username=Solfegesam&show_icons=true&theme=tokyonight)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Solfegesam&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Solfegesam&theme=tokyonight)
 
 ---
