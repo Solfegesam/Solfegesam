@@ -1,91 +1,77 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/260166915?v=4&size=64/150" alt="Samuel Billy" width="200" height="200" style="border-radius:60%;">
+  <img src="https://avatars.githubusercontent.com/u/260166915?v=4" width="160" style="border-radius:50%;" />
 </p>
+
+<h1 align="center">Samuel Barasa</h1>
+
+<h3 align="center">Backend Developer | API & System Design</h3>
 
 <p align="center">
-  <strong style="font-size:34px;">SAMUEL BILLY</strong> <br/>
+Building practical backend systems and real-world applications.<br>
+Focused on APIs, automation, and scalable logic-driven solutions.<br>
+Bridging <b>music</b> and <b>technology</b> to create meaningful tools.
 </p>
 
-  <!-- Typing Animation -->
-  <h2>
-    <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=500&lines=Programmer;Web+Developer;Tech+Enthusiast" alt="Typing Animation" />
-    </p>
-  </h2>
-</div>
+---
+
+## 🚀 What I Do
+
+- Design and build REST APIs  
+- Work with structured data and databases  
+- Develop backend logic for real-world applications  
+- Explore automation and system workflows  
 
 ---
 
-I'm a *Computer Programming student* **passionate about technology, coding and
-creating web solutions** using Python, HTML and GitHub.
+## 🛠 Tech Stack
+
+- **Languages:** Python, JavaScript  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB, MySQL  
+- **Tools:** Git, GitHub, Postman  
 
 ---
 
-## My Learning Goals
-Building and deploying real-world applications.
+## 📌 Featured Projects
 
-### This Semester
-This semester I am committed to becoming a 
-**skilled web developer**, staying *disciplined*, 
-and practicing writing clean 'HTML', 'CSS', and 
-'Python' code.
+### 🎯 Choir Management System *(In Progress)*
+Backend system for managing choir members, attendance, and rehearsals.
 
----
-
-### Connect with Me
-[My GitHub Profile](https://github.com/Solfegesam)
-
-[Learning Resource](https://developer.mozilla.org)
+- Authentication (JWT)
+- Role-based access
+- Structured database design
 
 ---
 
-### 💡 Skills I Want to Learn
-- Fronted development (**HTML**, **CSS** & **JavaScript**)
-- Backend basics with Python
-- Version control using Git & GitHub
+### 📊 Student Grade Tracker API
+API for managing and tracking student performance.
 
-### 📝Steps to Make a Commit in Git
-1. ##### Stage the changes using *°git add*
-2. ##### Commit using *°git commit -m "Describe your changes"*
-3. ##### Push to GitHub using *°git push origin main*
+- CRUD operations
+- Data validation
+- Persistent storage
 
-### Tools I use/Learn
+---
 
-| Tool       | Purpose                          | Links      |
-|------------|----------------------------------|------------|
-| VS Code    | Code editor                      | VS Code↗   |
-| GitHub     | Project hosting & collaboration  | GitHub↗    |
-| Python     | Programming language             | Python↗    |
-| HTML/CSS   | Web page structure & styling     | W3Schools↗ |
-| JavaScript | Add interactivity to websites    | MDN JS↗    |
+## 📊 GitHub Stats
 
-### Task List
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Solfegesam&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solfegesam&layout=compact&theme=tokyonight" />
+</p>
 
-- [x] Set up GitHub profile repositories
-- [x] Learn basic Markdown syntax
-- [x] Push files to GitHub
-- [ ] Build and deploy a personal website
-- [ ] Contribute to an open-source project
-- [ ] Practise advanced Python projects
+---
 
-### Code Blocks
-````Python
-def greet(name):
-    return f"Hello, {name}! Welcome to my GitHub."
+## 🤝 Connect With Me
 
-print(greet("Samuel"))
+<p align="center">
+  <a href="mailto:samuelbarasa106@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/Solfegesam">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
-````
+---
 
-### 🌟 Favorite Quote
-
->“Success in programming comes from consistent practice, problem-solving, and never giving up.”
-
-
-
-
-
-
-
-
-
+💬 Open to collaboration on backend projects and creative tech tools.
