@@ -27,7 +27,6 @@ I am currently building systems around music and education workflows, including 
 
 ### Backend
 
-*
 * Node.js
 * Express
 * MongoDB
