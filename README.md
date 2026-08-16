@@ -105,7 +105,7 @@ Collection of responsive UI projects demonstrating clean layouts and interactive
 
 - 📧 Email: samuelbarasa106@gmail.com  
 - 💻 GitHub: https://github.com/Solfegesam  
-- 💼 LinkedIn: 
+- 💼 LinkedIn: "https://www.linkedin.com/in/samuel-barasa"
 
 ---
 
